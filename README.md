@@ -1,4 +1,4 @@
-# AI-Research-Paper-Intelligent-System-using-NLP-Transformers-and-Semantic-Search_Agentic_AI
+# AI-Research-Paper-Intelligent-System-using-NLP-Transformers-Semantic-Search-and-Agentic-AI
 
 
 An AI-powered system to search, understand, and interact with research papers using **Semantic Search, Summarization, Keyword Extraction, NER, and a LangChain Agent**.
