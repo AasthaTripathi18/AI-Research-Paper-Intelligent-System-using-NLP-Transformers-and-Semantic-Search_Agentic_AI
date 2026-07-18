@@ -76,10 +76,11 @@ The Agentic AI section requires a Groq API key.
 
 To use it in Google Colab:
 
-Open the Secrets section.
-Add your Groq API key.
-Save it with the name GROQ_API_KEY.
-Allow notebook access to the secret.
+1. Open the Secrets section.
+2. Add your Groq API key.
+3. Save it with the name GROQ_API_KEY.
+4. Allow notebook access to the secret.
+
 The API key is then securely accessed from Colab Secrets instead of being directly written in the notebook.
 
 ---
